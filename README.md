@@ -1,5 +1,5 @@
 <div align="center">
-  <!-- IMPORTANT: To use a custom banner, upload your image to a service like Imgur and replace the placeholder URL below. The local path "./Github profile image.png" will not work on GitHub. -->
+  <!-- IMPORTANT: To use your custom banner, you MUST first upload the image to a publicly accessible host (e.g., a dedicated GitHub repository, Imgur, etc.). Then, replace the placeholder URL below with the public URL of your image. A local path like "./Github profile image.png" will not work on GitHub. -->
   <img src="https://placehold.co/1200x200/294666/ffffff?text=Innocent%20Odaga" alt="Innocent Odaga's GitHub Profile Banner" style="width: 100%; border-radius: 8px;">
 </div>
 
@@ -23,21 +23,7 @@
 
 ### 👋 About Me
 
-Eager about capitalizing on AI technologies, particularly Computer Vision, to develop mobile systems that address real-world challenges. I'm experienced in applying programming tools and data-driven methodologies to enhance decision-making and modernize operations.
-
--   📍 **Location:** Adyel, Lira City, Uganda
--   📞 **Phone:** +256(0)760707200
-
----
-
-### 👤 Skills
-
--   **Data Analysis:** Fundamental ability to collect, analyze, and interpret data to inform decision-making and improve program effectiveness.
--   **Communication:** Excellent written and oral communication skills, with a track record of preparing clear reports and delivering impactful presentations.
--   **Leadership:** Demonstrated ability to lead teams and inspire others to achieve common goals.
--   **Project Management:** Experienced in coordinating teams and ensuring timely and successful delivery of project objectives.
-
----
+Eager to capitalize on AI technologies to develop mobile systems that address real-world challenges. I'm experienced in applying programming tools and data-driven methodologies to enhance decision-making and modernize operations.
 
 ### 🛠️ Tools
 
@@ -56,6 +42,8 @@ Eager about capitalizing on AI technologies, particularly Computer Vision, to de
     <img src="https://img.shields.io/badge/Scipy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="Scipy Badge">
     <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn Badge">
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge">
+  </p>
+  <p>
     <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy Badge">
     <img src="https://img.shields.io/badge/Matplotlib-003366?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib Badge">
   </p>
