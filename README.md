@@ -14,6 +14,15 @@
     <a href="https://www.linkedin.com/in/innocent-odaga-08b420288/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+    <a href="https://www.instagram.com/innocentodaga11/" target="_blank" style="border: 2px solid #673AB7; border-radius: 6px; padding: 2px;">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    </a>
+    <a href="https://github.com/innocentodaga" target="_blank" style="border: 2px solid #673AB7; border-radius: 6px; padding: 2px;">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+    </a>
+    <a href="https://www.youtube.com/@inno_dev" target="_blank" style="border: 2px solid #673AB7; border-radius: 6px; padding: 2px;">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
+    </a>
     <a href="mailto:innocentodaga11@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
     </a>
