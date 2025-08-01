@@ -6,6 +6,7 @@
 ---
 
 <div align="center">
+  <h2>Hey👋, I'am</h2>
   <h1>Innocent Odaga</h1>
   <h3>Innovative and aspiring AI engineer with a solid foundation in computer science.</h3>
   <p>
@@ -23,7 +24,7 @@
 
 ### 👋 About Me
 
-Eager to capitalize on AI technologies to develop mobile systems that address real-world challenges. I'm experienced in applying programming tools and data-driven methodologies to enhance decision-making and modernize operations.
+I am a passionate **Data Science and Machine Learning** enthusiast with a keen interest in leveraging **AI technologies** to build effective **mobile systems**. My primary goal is to address **real-world challenges** by applying **programming tools** and **data-driven methodologies** to **enhance decision-making** and **modernize operations**.
 
 ### 🛠️ Tools
 
@@ -41,15 +42,16 @@ Eager to capitalize on AI technologies to develop mobile systems that address re
     <img src="https://img.shields.io/badge/SymPy-FF5733?style=for-the-badge&logo=sympy&logoColor=white" alt="SymPy Badge">
     <img src="https://img.shields.io/badge/Scipy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="Scipy Badge">
     <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn Badge">
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge">
   </p>
   <p>
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge">
     <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy Badge">
     <img src="https://img.shields.io/badge/Matplotlib-003366?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib Badge">
   </p>
 
   <h4>Database Tools</h4>
   <p>
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Badge">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge">
     <img src="https://img.shields.io/badge/MySQL--Workbench-F29111?style=for-the-badge&logo=mysql-workbench&logoColor=white" alt="MySQL Workbench Badge">
   </p>
