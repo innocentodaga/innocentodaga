@@ -1,17 +1,32 @@
 <div align="center">
-  <img src="https://placehold.co/1000x200/294666/ffffff?text=Innocent%20Odaga" alt="Innocent Odaga's GitHub Profile Banner" style="border-radius: 8px;">
+  <!-- IMPORTANT: To use a custom banner, upload your image to a service like Imgur and replace the placeholder URL below. The local path "./Github profile image.png" will not work on GitHub. -->
+  <img src="https://placehold.co/1200x200/294666/ffffff?text=Innocent%20Odaga" alt="Innocent Odaga's GitHub Profile Banner" style="width: 100%; border-radius: 8px;">
+</div>
+
+---
+
+<div align="center">
+  <h1>Innocent Odaga</h1>
+  <h3>Innovative and aspiring AI engineer with a solid foundation in computer science.</h3>
+  <p>
+    <!-- Social Links with Badges -->
+    <a href="https://www.linkedin.com/in/innocent-odaga-08b420288/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="mailto:innocentodaga11@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+    </a>
+  </p>
 </div>
 
 ---
 
 ### 👋 About Me
 
-I'm an innovative and aspiring AI engineer with a solid foundation in computer science. Eager about capitalizing on AI technologies, particularly Computer Vision, to develop mobile systems that address real-world challenges. I'm experienced in applying programming tools and data-driven methodologies to enhance decision-making and modernize operations.
+Eager about capitalizing on AI technologies, particularly Computer Vision, to develop mobile systems that address real-world challenges. I'm experienced in applying programming tools and data-driven methodologies to enhance decision-making and modernize operations.
 
 -   📍 **Location:** Adyel, Lira City, Uganda
 -   📞 **Phone:** +256(0)760707200
--   🔗 **LinkedIn:** [https://www.linkedin.com/in/innocent-odaga-08b420288/](https://www.linkedin.com/in/innocent-odaga-08b420288/)
--   ✉️ **Email:** innocentodaga11@gmail.com
 
 ---
 
@@ -26,19 +41,41 @@ I'm an innovative and aspiring AI engineer with a solid foundation in computer s
 
 ### 🛠️ Tools
 
-#### Programming
--   `Python` `HTML` `CSS` `Java`
+<div align="center">
+  <h4>Programming</h4>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge">
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge">
+  </p>
 
-#### AI/ML Frameworks
--   `SymPy` `Scipy` `Scikit-learn` `Pandas` `NumPy` `Matplotlib`
+  <h4>AI/ML Frameworks</h4>
+  <p>
+    <img src="https://img.shields.io/badge/SymPy-FF5733?style=for-the-badge&logo=sympy&logoColor=white" alt="SymPy Badge">
+    <img src="https://img.shields.io/badge/Scipy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="Scipy Badge">
+    <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn Badge">
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge">
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy Badge">
+    <img src="https://img.shields.io/badge/Matplotlib-003366?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib Badge">
+  </p>
 
-#### Database Tools
--   `MySQL` `MySQL Workbench`
+  <h4>Database Tools</h4>
+  <p>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge">
+    <img src="https://img.shields.io/badge/MySQL--Workbench-F29111?style=for-the-badge&logo=mysql-workbench&logoColor=white" alt="MySQL Workbench Badge">
+  </p>
 
-#### Other Tools
--   `Jupyter Notebook` `Visual Studio Code` `GitHub`
+  <h4>Other Tools</h4>
+  <p>
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Badge">
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code Badge">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
+  </p>
+</div>
 
 ---
+
 ### ✨ GitHub Stats
 
 <div align="center">
